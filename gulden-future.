@@ -1,0 +1,300 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="المستقبل الذهبي لخدمات مكافحة الحشرات والقوارض في جميع مناطق المنطقة الشرقية. تواصل معنا الآن عبر الاتصال أو واتساب.">
+  <meta name="theme-color" content="#073b63">
+  <title>المستقبل الذهبي | مكافحة الحشرات بالمنطقة الشرقية</title>
+
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Cairo:wght@400;500;600;700;800;900&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css">
+  <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+  <div class="top-strip">
+    <div class="container top-strip-inner">
+      <span><i class="fa-solid fa-location-dot"></i> نخدم مناطق المنطقة الشرقية</span>
+      <a href="tel:0549095575"><i class="fa-solid fa-phone"></i> 0549095575</a>
+    </div>
+  </div>
+
+  <header class="header" id="header">
+    <div class="container nav-wrap">
+      <a href="#home" class="brand" aria-label="المستقبل الذهبي">
+        <div class="brand-mark"><i class="fa-solid fa-shield-halved"></i></div>
+        <div>
+          <strong>المستقبل الذهبي</strong>
+          <small>لخدمات مكافحة الحشرات</small>
+        </div>
+      </a>
+
+      <nav class="nav" id="nav">
+        <a class="active" href="#home">الرئيسية</a>
+        <a href="#services">خدماتنا</a>
+        <a href="#offers">العروض</a>
+        <a href="#why">لماذا نحن؟</a>
+        <a href="#areas">مناطق الخدمة</a>
+        <a href="#contact">تواصل معنا</a>
+      </nav>
+
+      <div class="nav-actions">
+        <a class="nav-call" href="tel:0549095575">
+          <i class="fa-solid fa-phone"></i>
+          <span>اتصل الآن</span>
+        </a>
+        <button class="menu-btn" id="menuBtn" aria-label="فتح القائمة">
+          <i class="fa-solid fa-bars"></i>
+        </button>
+      </div>
+    </div>
+  </header>
+
+  <main>
+    <section class="hero" id="home">
+      <div class="hero-bg"></div>
+      <div class="container hero-grid">
+        <div class="hero-copy">
+          <div class="eyebrow"><i class="fa-solid fa-bolt"></i> خدمة سريعة واحترافية</div>
+          <h1>عندك حشرات؟<br><span>خلّص منها الآن</span></h1>
+          <p class="hero-lead">
+            المستقبل الذهبي لخدمات مكافحة الحشرات والقوارض للمنازل والفلل والمنشآت
+            في جميع مناطق المنطقة الشرقية.
+          </p>
+
+          <div class="hero-actions">
+            <a class="btn btn-whatsapp" href="https://wa.me/966549095575?text=السلام%20عليكم،%20أرغب%20في%20طلب%20خدمة%20مكافحة%20الحشرات" target="_blank" rel="noopener">
+              <i class="fa-brands fa-whatsapp"></i>
+              احجز الآن عبر واتساب
+            </a>
+            <a class="btn btn-call" href="tel:0549095575">
+              <i class="fa-solid fa-phone"></i>
+              اتصل الآن
+            </a>
+          </div>
+
+          <div class="trust-row">
+            <div><i class="fa-solid fa-user-shield"></i><span>فريق متخصص</span></div>
+            <div><i class="fa-solid fa-clock"></i><span>استجابة سريعة</span></div>
+            <div><i class="fa-solid fa-location-dot"></i><span>المنطقة الشرقية</span></div>
+          </div>
+        </div>
+
+        <div class="hero-visual">
+          <div class="image-frame">
+            <img src="assets/hero-ad.png" alt="إعلان المستقبل الذهبي لخدمات مكافحة الحشرات">
+          </div>
+          <div class="floating-card">
+            <i class="fa-brands fa-whatsapp"></i>
+            <div>
+              <strong>تواصل مباشر</strong>
+              <span>أرسل مشكلتك على واتساب</span>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section class="quick-cta">
+      <div class="container quick-cta-inner">
+        <div>
+          <span>مشكلة حشرات الآن؟</span>
+          <strong>لا تنتظر حتى تتفاقم المشكلة</strong>
+        </div>
+        <div class="quick-buttons">
+          <a class="mini-whatsapp" href="https://wa.me/966549095575?text=السلام%20عليكم،%20أحتاج%20خدمة%20مكافحة%20الحشرات" target="_blank" rel="noopener">
+            <i class="fa-brands fa-whatsapp"></i> واتساب
+          </a>
+          <a class="mini-call" href="tel:0549095575">
+            <i class="fa-solid fa-phone"></i> 0549095575
+          </a>
+        </div>
+      </div>
+    </section>
+
+    <section class="section services" id="services">
+      <div class="container">
+        <div class="section-heading">
+          <span>خدماتنا</span>
+          <h2>حلول متخصصة <b>لمكافحة الحشرات</b></h2>
+          <p>اختر الخدمة التي تحتاجها وتواصل معنا مباشرة للحصول على التفاصيل المناسبة.</p>
+        </div>
+
+        <div class="service-grid">
+          <article class="service-card">
+            <div class="service-icon"><i class="fa-solid fa-bug"></i></div>
+            <h3>مكافحة الحشرات</h3>
+            <p>الحد من انتشار الحشرات المنزلية والزاحفة داخل وخارج المنزل.</p>
+            <a href="https://wa.me/966549095575?text=السلام%20عليكم،%20أحتاج%20خدمة%20مكافحة%20الحشرات" target="_blank" rel="noopener">احجز الخدمة <i class="fa-solid fa-arrow-left"></i></a>
+          </article>
+
+          <article class="service-card">
+            <div class="service-icon"><i class="fa-solid fa-spider"></i></div>
+            <h3>مكافحة الصراصير</h3>
+            <p>التعامل مع مشكلة الصراصير في المطابخ والحمامات والأماكن المختلفة.</p>
+            <a href="https://wa.me/966549095575?text=السلام%20عليكم،%20أحتاج%20خدمة%20مكافحة%20الصراصير" target="_blank" rel="noopener">احجز الخدمة <i class="fa-solid fa-arrow-left"></i></a>
+          </article>
+
+          <article class="service-card">
+            <div class="service-icon"><i class="fa-solid fa-house-circle-check"></i></div>
+            <h3>مكافحة النمل الأبيض</h3>
+            <p>حلول لمشكلة النمل الأبيض وحماية الأماكن المتضررة والمعرضة للإصابة.</p>
+            <a href="https://wa.me/966549095575?text=السلام%20عليكم،%20أحتاج%20خدمة%20مكافحة%20النمل%20الأبيض" target="_blank" rel="noopener">احجز الخدمة <i class="fa-solid fa-arrow-left"></i></a>
+          </article>
+
+          <article class="service-card">
+            <div class="service-icon"><i class="fa-solid fa-rat"></i></div>
+            <h3>مكافحة القوارض</h3>
+            <p>التعامل مع مشكلة الفئران والقوارض داخل المنازل والمنشآت.</p>
+            <a href="https://wa.me/966549095575?text=السلام%20عليكم،%20أحتاج%20خدمة%20مكافحة%20القوارض" target="_blank" rel="noopener">احجز الخدمة <i class="fa-solid fa-arrow-left"></i></a>
+          </article>
+
+          <article class="service-card">
+            <div class="service-icon"><i class="fa-solid fa-mosquito"></i></div>
+            <h3>مكافحة البعوض</h3>
+            <p>المساعدة في الحد من انتشار البعوض في المنازل والأماكن الخارجية.</p>
+            <a href="https://wa.me/966549095575?text=السلام%20عليكم،%20أحتاج%20خدمة%20مكافحة%20البعوض" target="_blank" rel="noopener">احجز الخدمة <i class="fa-solid fa-arrow-left"></i></a>
+          </article>
+
+          <article class="service-card">
+            <div class="service-icon"><i class="fa-solid fa-building"></i></div>
+            <h3>الفلل والمنشآت</h3>
+            <p>خدمات مكافحة مناسبة للفلل والمنازل والمكاتب والمنشآت المختلفة.</p>
+            <a href="https://wa.me/966549095575?text=السلام%20عليكم،%20أحتاج%20عرض%20لمنشأة" target="_blank" rel="noopener">احجز الخدمة <i class="fa-solid fa-arrow-left"></i></a>
+          </article>
+        </div>
+      </div>
+    </section>
+
+    <section class="ad-showcase">
+      <div class="container">
+        <div class="section-heading light">
+          <span>صور الإعلان</span>
+          <h2>صور احترافية <b>لخدماتنا</b></h2>
+          <p>تمت إضافة الصور التي أرسلتِها داخل المشروع لتظهر بشكل متجاوب على الهاتف والكمبيوتر.</p>
+        </div>
+
+        <div class="gallery">
+          <a href="assets/services-ad.png" class="gallery-item large" target="_blank">
+            <img src="assets/services-ad.png" alt="تصميم إعلاني لخدمات مكافحة الحشرات">
+          </a>
+          <a href="assets/business-ad.png" class="gallery-item" target="_blank">
+            <img src="assets/business-ad.png" alt="إعلان خدمات مكافحة الحشرات للمنشآت">
+          </a>
+          <a href="assets/hero-ad.png" class="gallery-item" target="_blank">
+            <img src="assets/hero-ad.png" alt="إعلان المستقبل الذهبي">
+          </a>
+        </div>
+      </div>
+    </section>
+
+    <section class="offer-section" id="offers">
+      <div class="container offer-grid">
+        <div class="offer-copy">
+          <span class="offer-tag"><i class="fa-solid fa-fire"></i> اطلب عرضك الآن</span>
+          <h2>عرض مناسب <span>لمنزلك أو منشأتك</span></h2>
+          <p>تواصل معنا عبر واتساب وأرسل نوع المشكلة والموقع، وسنساعدك في معرفة الخدمة المناسبة.</p>
+
+          <div class="offer-points">
+            <div><i class="fa-solid fa-check"></i> تواصل مباشر وسريع</div>
+            <div><i class="fa-solid fa-check"></i> خدمة للمنازل والفلل والمنشآت</div>
+            <div><i class="fa-solid fa-check"></i> تغطية مناطق متعددة في الشرقية</div>
+          </div>
+
+          <a class="btn btn-whatsapp big" href="https://wa.me/966549095575?text=السلام%20عليكم،%20أرغب%20في%20معرفة%20العرض%20المناسب%20لخدمة%20مكافحة%20الحشرات" target="_blank" rel="noopener">
+            <i class="fa-brands fa-whatsapp"></i>
+            احصل على العرض عبر واتساب
+          </a>
+        </div>
+
+        <div class="offer-image">
+          <img src="assets/business-ad.png" alt="خدمات مكافحة الحشرات للمنشآت">
+          <div class="offer-badge">اتصل الآن<br><strong>0549095575</strong></div>
+        </div>
+      </div>
+    </section>
+
+    <section class="section why" id="why">
+      <div class="container">
+        <div class="section-heading">
+          <span>لماذا المستقبل الذهبي؟</span>
+          <h2>كل ما يهمك <b>في خدمة واحدة</b></h2>
+          <p>معلومات واضحة وتواصل مباشر لتسهيل حجز الخدمة.</p>
+        </div>
+
+        <div class="why-grid">
+          <div class="why-card"><i class="fa-solid fa-user-group"></i><h3>فريق متخصص</h3><p>تنفيذ الخدمات بواسطة فريق متخصص في مجال مكافحة الحشرات.</p></div>
+          <div class="why-card"><i class="fa-solid fa-bolt"></i><h3>استجابة سريعة</h3><p>نحرص على سرعة التواصل وتحديد الخدمة المناسبة لاحتياجك.</p></div>
+          <div class="why-card"><i class="fa-solid fa-location-dot"></i><h3>تغطية المنطقة الشرقية</h3><p>نقدم خدماتنا في مناطق متعددة داخل المنطقة الشرقية.</p></div>
+          <div class="why-card"><i class="fa-solid fa-headset"></i><h3>تواصل مباشر</h3><p>اتصل بنا أو ابدأ محادثة واتساب لطلب الخدمة والاستفسار.</p></div>
+        </div>
+      </div>
+    </section>
+
+    <section class="areas" id="areas">
+      <div class="container">
+        <div class="areas-copy">
+          <span>نطاق الخدمة</span>
+          <h2>نخدم مناطق <b>المنطقة الشرقية</b></h2>
+          <p>من المناطق المذكورة في التصميم: الدمام، الخبر، الظهران، القطيف، الجبيل، الأحساء، ومناطق أخرى.</p>
+          <div class="chips">
+            <span>الدمام</span><span>الخبر</span><span>الظهران</span><span>القطيف</span><span>الجبيل</span><span>الأحساء</span>
+          </div>
+        </div>
+        <div class="areas-image">
+          <img src="assets/hero-ad.png" alt="مناطق خدمة المستقبل الذهبي">
+        </div>
+      </div>
+    </section>
+
+    <section class="final-cta" id="contact">
+      <div class="container final-cta-inner">
+        <div>
+          <span>جاهزين لخدمتك</span>
+          <h2>عندك مشكلة حشرات؟ تواصل معنا الآن</h2>
+          <p>اتصل أو ابدأ محادثة واتساب وسيتم توجيهك للخدمة المناسبة.</p>
+        </div>
+        <div class="final-buttons">
+          <a class="btn btn-whatsapp" href="https://wa.me/966549095575?text=السلام%20عليكم،%20أرغب%20في%20طلب%20خدمة%20مكافحة%20الحشرات" target="_blank" rel="noopener">
+            <i class="fa-brands fa-whatsapp"></i> تواصل عبر واتساب
+          </a>
+          <a class="btn btn-outline" href="tel:0549095575">
+            <i class="fa-solid fa-phone"></i> 0549095575
+          </a>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <footer class="footer">
+    <div class="container footer-inner">
+      <div class="footer-brand">
+        <div class="brand">
+          <div class="brand-mark"><i class="fa-solid fa-shield-halved"></i></div>
+          <div><strong>المستقبل الذهبي</strong><small>لخدمات مكافحة الحشرات</small></div>
+        </div>
+        <p>خدمات مكافحة الحشرات والقوارض للمنازل والفلل والمنشآت.</p>
+      </div>
+
+      <div class="footer-contact">
+        <strong>تواصل مباشرة</strong>
+        <a href="tel:0549095575"><i class="fa-solid fa-phone"></i> 0549095575</a>
+        <a href="https://wa.me/966549095575" target="_blank" rel="noopener"><i class="fa-brands fa-whatsapp"></i> واتساب</a>
+      </div>
+    </div>
+    <div class="copyright">© <span id="year"></span> المستقبل الذهبي لخدمات مكافحة الحشرات - جميع الحقوق محفوظة</div>
+  </footer>
+
+  <div class="floating-actions">
+    <a href="tel:0549095575" class="float-call" aria-label="اتصل الآن"><i class="fa-solid fa-phone"></i><span>اتصل</span></a>
+    <a href="https://wa.me/966549095575?text=السلام%20عليكم،%20أرغب%20في%20طلب%20خدمة%20مكافحة%20الحشرات" target="_blank" rel="noopener" class="float-whatsapp" aria-label="واتساب"><i class="fa-brands fa-whatsapp"></i><span>واتساب</span></a>
+  </div>
+
+  <button class="back-top" id="backTop" aria-label="العودة للأعلى"><i class="fa-solid fa-arrow-up"></i></button>
+
+  <script src="script.js"></script>
+</body>
+</html>
